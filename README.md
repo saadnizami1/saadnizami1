@@ -1,7 +1,7 @@
 # saadnizami1
 # Saad Nizami
 
-**High School Student | App Developer | Drone Business Owner | Simulation Creator**
+**High School Student | App Developer | Drone Business Owner | Computational Physicist**
 
 I’m a student developer from Pakistan focused on building apps and tools that solve real problems. Whether it’s a platform for social good, an AI-supported health app, or an educational simulator for nuclear physics — I bring ideas to life with clean code and practical design.
 
