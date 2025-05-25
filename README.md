@@ -1,7 +1,7 @@
 # saadnizami1
 # Saad Nizami
 
-**High School Student | App Developer | Drone Business Owner | Simulation Enthusiast**
+**High School Student | App Developer | Drone Business Owner | Simulation Creator**
 
 I’m a student developer from Pakistan focused on building apps and tools that solve real problems. Whether it’s a platform for social good, an AI-supported health app, or an educational simulator for nuclear physics — I bring ideas to life with clean code and practical design.
 
@@ -71,16 +71,15 @@ Chain reactions, typeshift behavior, and visual demos built for students, teache
 ## 📫 Contact
 
 **Email:**  
-`s-double-a-d-s-double-i-k-i-n-g-12-r-t(at)gmail(dot)com`  
-*(Replace `(at)` with `@` and `(dot)` with `.` before sending)*
+`saadsiiking12@gmail.com`  
+
 
 ---
 
 ## 🔍 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadnizami1&show_icons=true&theme=default&hide=prs)
 
----
 
-> I build what I want to see in the world — practical, local, and creative technology.  
-> Always learning. Always experimenting.
+
+
