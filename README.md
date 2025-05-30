@@ -74,12 +74,6 @@ Chain reactions, typeshift behavior, and visual demos built for students, teache
 `saadsiiking12@gmail.com`  
 
 
----
-
-## 🔍 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadnizami1&show_icons=true&theme=default&hide=prs)
-
 
 
 
