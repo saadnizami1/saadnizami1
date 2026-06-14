@@ -1,39 +1,33 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=1500&pause=50000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=saad+nizami." alt="saad nizami" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=50&pause=99999&color=00FF41&center=true&vCenter=true&width=700&lines=saadnizami1%40github%3A~%24+cat+README.md" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&duration=2500&pause=1200&color=7aa2f7&center=true&vCenter=true&width=500&lines=i+make+things+see.;lahore+%F0%9F%87%B5%F0%9F%87%B0;cv+%2B+cognition+%2B+accessibility" alt="subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=1200&pause=50000&color=FFFFFF&center=true&vCenter=true&width=500&height=65&lines=saad+nizami." />
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=saadnizami1&color=7aa2f7&style=flat-square&label=profile+views)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2500&pause=1200&color=00FF41&center=true&vCenter=true&width=500&lines=i+make+things+see.;lahore+%F0%9F%87%B5%F0%9F%87%B0;cv+%2B+cognition+%2B+accessibility" />
 
 </div>
 
 <br/>
 
-```python
-class Saad:
+```
+$ whoami
+  17. lahore. teaches machines to see.
 
-    location  = "lahore, pakistan 🇵🇰"
-    currently = "teaching machines to see"
+$ cat focus.txt
+  computer vision  ·  cognitive ai  ·  accessibility
 
-    def __init__(self):
-        self.focus = ["computer vision", "cognitive ai", "accessibility"]
-        self.ships = True
-
-    def loop(self):
-        while self.ships:
-            idea = self.get_inspired()
-            code = self.build(idea)
-            code.deploy()
+$ uptime
+  always building
 ```
 
 <br/>
 
 <div align="center">
 
-*linkedin has the résumé. this has the code.*
+[`✉  saadnizami114@gmail.com`](mailto:saadnizami114@gmail.com) &nbsp;·&nbsp; [`◎  @saadnizami__`](https://instagram.com/saadnizami__) &nbsp;·&nbsp; [`in  linkedin`](https://linkedin.com/in/saad-nizami-250ab0374) &nbsp;·&nbsp; [`⬡  saadniz.netlify.app`](https://saadniz.netlify.app)
+
+<sub>↑ the portfolio. hasn't been updated in a while. honestly just check the linkedin.</sub>
 
 </div>
 
@@ -41,31 +35,23 @@ class Saad:
 
 ---
 
-<div align="center">
-
-**stack**
-
-<br/>
-
-[![Skills](https://skillicons.dev/icons?i=python,cpp,kotlin,android,tensorflow,pytorch,opencv,firebase,linux,git&theme=dark&perline=10)](https://skillicons.dev)
-
-</div>
+```
+$ cat stack.txt
+  python  ·  c++  ·  kotlin  ·  android  ·  tensorflow
+  pytorch  ·  opencv  ·  firebase  ·  linux
+```
 
 ---
 
 <div align="center">
 
-**stats**
-
-<br/>
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=saadnizami1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=saadnizami1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&title_color=00FF41&text_color=888888&bg_color=0D1117&icon_color=00FF41" />
 &nbsp;&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadnizami1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_title=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadnizami1&layout=compact&hide_border=true&langs_count=6&hide_title=true&title_color=00FF41&text_color=888888&bg_color=0D1117" />
 
 <br/><br/>
 
-<img height="155" src="https://streak-stats.demolab.com?user=saadnizami1&theme=tokyonight&hide_border=true" />
+<img height="150" src="https://streak-stats.demolab.com?user=saadnizami1&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=888888&dates=888888&sideNums=FFFFFF&currStreakNum=FFFFFF" />
 
 </div>
 
@@ -75,8 +61,4 @@ class Saad:
 
 <img width="100%" src="https://raw.githubusercontent.com/saadnizami1/saadnizami1/output/github-contribution-grid-snake-dark.svg" />
 
-</div>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:24283b&height=70&section=footer"/>
 </div>
