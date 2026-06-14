@@ -43,6 +43,16 @@ $ cat stack.txt
 
 ---
 
+```
+$ chess --play-on-profile
+  visitors play white  ·  make a move via the links below
+```
+
+<!-- BEGIN CHESS BOARD -->
+<!-- END CHESS BOARD -->
+
+---
+
 <div align="center">
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=saadnizami1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&title_color=00FF41&text_color=888888&bg_color=0D1117&icon_color=00FF41" />
