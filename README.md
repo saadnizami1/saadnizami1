@@ -54,11 +54,3 @@ $ cat stack.txt
 <img height="150" src="https://streak-stats.demolab.com?user=saadnizami1&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=888888&dates=888888&sideNums=FFFFFF&currStreakNum=FFFFFF" />
 
 </div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/saadnizami1/saadnizami1/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
