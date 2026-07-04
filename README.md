@@ -12,7 +12,7 @@
 
 ```
 $ whoami
-  17. lahore. teaches machines to see.
+  18. lahore. teaches machines to see.
 
 $ cat focus.txt
   computer vision  ·  cognitive ai  ·  accessibility
