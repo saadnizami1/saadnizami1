@@ -1,4 +1,4 @@
-
+<!-- paste into README.md at github.com/saadnizami1 · add your repo links under "building" and edit now.log whenever -->
 
 <div align="center">
 
@@ -15,17 +15,17 @@
 ```
 $ whoami
   saad nizami · 18 · lahore, pakistan
-  i build systems that perceive — and study the mind that perceives them.
+  i build systems that perceive, and study the mind that perceives them.
 
 $ cat focus.txt
   computer vision     →  teaching machines to see
   cognitive science   →  reverse-engineering how we see, think & remember
-  accessibility       →  turning sight into sound for the blind
+  accessibility       →  turning sight into sound
 
 $ cat why.txt
-  i'm obsessed with the ~1.4 kg of wet tissue that turns
-  photons into meaning. so i study it — psychology, perception,
-  memory, cognition — and i try to rebuild it — cv, ml, ai.
+  i'm obsessed with the ~1.4 kg of wet tissue that turns photons
+  into meaning. so i study it (psychology, perception, memory,
+  cognition) and i try to rebuild it (cv, ml, ai).
   the overlap is where i live.
 
 $ uptime
@@ -36,7 +36,7 @@ $ uptime
 
 <a href="mailto:saadnizami114@gmail.com"><code>&#9993;&nbsp;email</code></a> &nbsp;·&nbsp; <a href="https://instagram.com/saadnizami__"><code>&#9673;&nbsp;instagram</code></a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/saad-nizami-250ab0374"><code>in&nbsp;&nbsp;linkedin</code></a> &nbsp;·&nbsp; <a href="https://saadniz.netlify.app"><code>&#11041;&nbsp;portfolio</code></a>
 
-<sub>the portfolio's a little stale — linkedin's the source of truth.</sub>
+<sub>the portfolio's a little stale. linkedin's the source of truth.</sub>
 
 </div>
 
@@ -46,23 +46,31 @@ $ uptime
 $ ls ~/building
 ```
 
-**◈&nbsp; Lumen.Aid — OfflineDekho / DekhoAI**
-On-device computer vision for the visually impaired. Real-time object detection that runs **fully offline** on Android and narrates the world aloud — no internet, no cloud, no data cost. Built as an accessibility tool, shipped as an NGO.
+**◈&nbsp; Lumen.Aid / OfflineDekho**
+On-device computer vision for the visually impaired. Real-time object detection that runs **fully offline** on Android and narrates the world aloud: no internet, no cloud, no data cost. Built as an accessibility tool, shipped as an NGO.
 `Kotlin` &middot; `TensorFlow Lite` &middot; `OpenCV` &middot; `Android`
 
 **◈&nbsp; Satori**
-A student mental-health platform deployed across schools in Pakistan — where **psychology meets product**. Tools for emotional regulation and support, designed for teenagers who otherwise have nowhere to turn.
+A student mental health platform deployed across schools in Pakistan. Psychology meeting product: support tools built for teenagers who otherwise have nowhere to turn.
 `Psychology` &middot; `Full-Stack` &middot; `Firebase`
 
-**◈&nbsp; Cross-Lingual LLM Research** — *peer-reviewed, published (IJIST)*
-Probing how large language models behave across languages. Where NLP, linguistics, and cognition collide.
-`NLP` &middot; `Research` &middot; `Python`
-
-**◈&nbsp; TruthLens** — *concept*
-A forensic AI interview system grounded in the **psychology of memory** — Loftus & Palmer, the cognitive interview, the NICHD protocol. Using what we know about how memory *fails* to design interviews that don't contaminate it.
+**◈&nbsp; TruthLens** *(concept)*
+A forensic AI interview system grounded in the psychology of memory. Using what we know about how memory *fails* to design interviews that don't contaminate it.
 `Cognitive Psychology` &middot; `AI`
 
-<sub>also in the lab → ISEF-level computational neuroscience (screening neuroprotective phytochemicals via molecular docking) · Zaroorat, a humanitarian crowdfunding platform · two published books.</sub>
+**◈&nbsp; Zaroorat**
+A humanitarian crowdfunding platform, built so getting help to people is one less broken link in the chain.
+`Full-Stack`
+
+<!-- ↓ your writing / research slot. describe it in your own words so it's exactly right:
+
+**◈&nbsp; Title here** *(venue, year)*
+one line on what it actually does or argues.
+`tag` &middot; `tag`
+
+-->
+
+<sub>also → two published books.</sub>
 
 ---
 
@@ -80,8 +88,7 @@ $ cat stack.txt
 ```
 $ tail -f now.log
 
-  › scaling Lumen.Aid — offline vision that speaks
-  › ISEF-level research at the comp-bio × neuroscience edge
+  › scaling Lumen.Aid, offline vision that speaks
   › reading everything i can find on perception, memory & the brain
   › the eternal side quest: building where cs meets the mind
 ```
@@ -108,8 +115,8 @@ $ tail -f now.log
 
 <br/><br/>
 
-<i>"we are not thinking machines that feel — we are feeling machines that think."</i>
+<i>"we are not thinking machines that feel, we are feeling machines that think."</i>
 
-<sub>— antonio damasio, neuroscientist</sub>
+<sub>antonio damasio</sub>
 
 </div>
